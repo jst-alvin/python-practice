@@ -9,3 +9,5 @@ def sum_of_digits(number):
     
     return total  # Return the sum of digits
 
+# Call the function and print the result
+print("Sum of digits:", sum_of_digits(1234))  # Example: 1+2+3+4 = 10
