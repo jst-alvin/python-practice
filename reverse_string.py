@@ -7,3 +7,7 @@ def reverse_string(s):
         reversed_str = char + reversed_str
     
     return reversed_str  # Return the fully reversed string
+# Calling the function with different strings
+print(reverse_string("hello"))    # Output: olleh
+print(reverse_string("12345"))    # Output: 54321
+print(reverse_string(""))         # Output: "" (empty string)
