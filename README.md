@@ -1,11 +1,11 @@
-# Python Practice
+ Python Practice
 
 Name: ALVIN MUGOYA OMBUNA  
 Admission Number:190156
 
 
 
-## Integrity Statement
+ Integrity Statement
 - I wrote all code myself.
 - I did not copy from AI or other students.
 - I committed my work regularly to GitHub.
